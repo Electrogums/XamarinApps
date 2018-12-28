@@ -1,0 +1,12 @@
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/bin/Debug/netstandard2.0/ColorSwitcher.deps.json
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/bin/Debug/netstandard2.0/ColorSwitcher.dll
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/bin/Debug/netstandard2.0/ColorSwitcher.pdb
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/ColorSwitcher.csprojAssemblyReference.cache
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/ColorSwitcher.csproj.CoreCompileInputs.cache
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/ColorSwitcher.AssemblyInfoInputs.cache
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/ColorSwitcher.AssemblyInfo.cs
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/ColorSwitcher.dll
+/Users/cro2h/Xamarin/ColorSwitcher/ColorSwitcher/obj/Debug/netstandard2.0/ColorSwitcher.pdb

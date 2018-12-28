@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2382D4B1-3A18-4790-8087-EB3363699364}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinViews.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="ede960cb-a84c-4f6a-983f-96c822021e92" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinViews/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinViews/MainPage.xaml" Line="7" Column="31" />
+      <File FileName="XamarinViews/MainPage.xaml.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinViews" expanded="True">
+            <Node name="XamarinViews" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinViews.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DB3D20F2-9DF2-4241-8316-7DFED597290C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/MainPage.xaml" relfile="XamarinViews/MainPage.xaml" line="4" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

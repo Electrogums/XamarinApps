@@ -1,0 +1,12 @@
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/bin/Debug/netstandard2.0/XamarinViews.deps.json
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/bin/Debug/netstandard2.0/XamarinViews.dll
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/bin/Debug/netstandard2.0/XamarinViews.pdb
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamarinViews.csprojAssemblyReference.cache
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamarinViews.csproj.CoreCompileInputs.cache
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamarinViews.AssemblyInfoInputs.cache
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamarinViews.AssemblyInfo.cs
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamarinViews.dll
+/Users/cro2h/Xamarin/XamarinViews/XamarinViews/XamarinViews/obj/Debug/netstandard2.0/XamarinViews.pdb

@@ -1,0 +1,12 @@
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.csprojAssemblyReference.cache
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.AssemblyInfoInputs.cache
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.AssemblyInfo.cs
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.dll
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.pdb
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.deps.json
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.dll
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.pdb
+/Users/cro2h/Xamarin/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/XamlC.stamp

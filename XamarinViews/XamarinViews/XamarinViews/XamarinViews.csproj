@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DefineConstants>TRACE;DEBUG;NETSTANDARD;NETSTANDARD2_0;GORILLA;</DefineConstants>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
+    <PackageReference Include="UXDivers.Effects" Version="0.6.3" />
+    <PackageReference Include="UXDivers.GorillaPlayer.SDK" Version="1.5.0" />
+  </ItemGroup>
+</Project>

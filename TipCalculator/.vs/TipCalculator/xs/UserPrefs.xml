@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F2A7F8DD-7913-4616-8DB1-D88704D3C234}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalculator.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Pie" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/MainPage.xaml.cs">
+    <Files>
+      <File FileName="TipCalculator/MainPage.xaml" Line="20" Column="61" />
+      <File FileName="TipCalculator/MainPage.xaml.cs" Line="17" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipCalculator" expanded="True">
+            <Node name="TipCalculator" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipCalculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EA9CC608-E811-4076-8B34-B7A4D6A6D410" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CF324A06-88C9-41C1-9877-00811CB8ED01}|Default">
+  <MonoDevelop.Ide.ItemProperties.ColorSwitcher.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EA9CC608-E811-4076-8B34-B7A4D6A6D410" />
+  <MonoDevelop.Ide.ItemProperties.ColorSwitcher.Android PreferredExecutionTarget="ede960cb-a84c-4f6a-983f-96c822021e92" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorSwitcher/MainPage.xaml">
+    <Files>
+      <File FileName="ColorSwitcher/MainPage.xaml.cs" Line="24" Column="37" />
+      <File FileName="ColorSwitcher/MainPage.xaml" Line="7" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ColorSwitcher" expanded="True">
+            <Node name="ColorSwitcher" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ColorSwitcher.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
